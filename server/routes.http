@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:3333
+
+# @name collect-email
+POST {{baseUrl}}/register
+Content-Type: application/json
+
+{
+  "email": "henrique@gmail.com.br"
+}
