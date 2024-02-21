@@ -21,7 +21,7 @@
         </li>
         <li>
             <h3>Configurar Variáveis de Ambiente</h3>
-            <p>No diretório <code>server</code>, crie um arquivo <code>.env</code> com as variáveis de ambiente necessárias. Você pode usar o arquivo de exemplo <code>.env.example</code> como referência.</p>
+            <p>No diretório <code>server</code>, crie um arquivo <code>.env</code> com as variáveis de ambiente necessárias. Você pode copiar o arquivo de exemplo <code>.env.example</code> como modelo para configurar suas variáveis.</p>
         </li>
         <li>
             <h3>Instruções para Executar a Aplicação usando Docker</h3>
@@ -65,7 +65,7 @@
         </li>
        <li>
             <h3>Configurar Variáveis de Ambiente</h3>
-            <p>No diretório <code>web</code>, crie um arquivo <code>.env.local</code> com as variáveis de ambiente necessárias. Você pode usar o arquivo de exemplo   <code>.env.example</code> como referência.</p>
+            <p>No diretório <code>web</code>, crie um arquivo <code>.env.local</code> com as variáveis de ambiente necessárias. Você pode copiar o arquivo de exemplo <code>.env.example</code> como modelo para configurar suas variáveis.</p>
         </li>
    <li>
             <h3>Em seguida execute a Aplicação</h3>
